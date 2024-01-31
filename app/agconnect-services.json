@@ -27,7 +27,7 @@
 		"project_id":"99536292102534349",
 		"app_id":"106860949",
 		"api_key":"DAEDAKqmdCTtnjkHivflhgKMDYO8JD58THiXpaE6QK1OHs2mgIytluygMN6uqf59LyGm8Ui7Xf2ku1vvG7+JtgaxwekZqXjCVYTrkg==",
-		"package_name":"com.cricketlive.tv"
+		"package_name":"com.cricket.tv"
 	},
 	"oauth_client":{
 		"client_id":"106860949",
@@ -35,17 +35,17 @@
 	},
 	"app_info":{
 		"app_id":"106860949",
-		"package_name":"com.cricketlive.tv"
+		"package_name":"com.cricket.tv"
 	},
 	"configuration_version":"3.0",
 	"appInfos":[
 		{
-			"package_name":"com.cricketlive.tv",
+			"package_name":"com.cricket.tv",
 			"client":{
 				"app_id":"106860949"
 			},
 			"app_info":{
-				"package_name":"com.cricketlive.tv",
+				"package_name":"com.cricket.tv",
 				"app_id":"106860949"
 			},
 			"oauth_client":{

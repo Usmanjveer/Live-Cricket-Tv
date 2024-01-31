@@ -6,7 +6,7 @@ plugins {
 android {
     compileSdkVersion 33
     defaultConfig {
-        applicationId "com.cricketlive.tv"
+        applicationId "com.cricket.tv"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 3
@@ -22,7 +22,7 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    namespace 'com.cricketlive.tv'
+    namespace 'com.cricket.tv'
 }
 
 dependencies {

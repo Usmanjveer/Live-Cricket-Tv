@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:hwads="http://schemas.android.com/apk/res-auto"
-    tools:context=".Second">
+    tools:context="live.cricket.tv.Second">
 
     <!-- Include your custom toolbar layout -->
     <include
